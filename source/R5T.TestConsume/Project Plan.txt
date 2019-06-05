@@ -1,0 +1,4 @@
+R5T.TestConsume - A library for NuGet functionality.
+
+Goals
+

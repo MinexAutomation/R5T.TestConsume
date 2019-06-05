@@ -1,0 +1,4 @@
+R5T.TestConsume.Construction - A construction console entry-point for the R5T.TestConsume library (A library for NuGet functionality.).
+
+Goals
+
